@@ -78,7 +78,7 @@
 
     <model name="zero_diff_drive">
       <self_collide>true</self_collide>
-      <pose>0 0 0.35 0 0 0</pose>
+      <pose>0 0 0.10 0 0 0</pose>
       <include merge="true">
         <uri>package://zero_diff_drive_description/models/zero_diff_drive</uri>
       </include>
